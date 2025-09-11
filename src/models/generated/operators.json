@@ -299,6 +299,17 @@
       "modules": ["", "X"]
     },
     {
+      "id": "char_4186_tmoris",
+      "prof": "SPECIAL",
+      "subProf": "stalker",
+      "name_en": "Yahata Umiri",
+      "name": "八幡海铃",
+      "alias": "bafanhailing bfhl 八幡海鈴",
+      "rarity": 5,
+      "alt_name": "Yahata Umiri",
+      "modules": ["", "Y"]
+    },
+    {
       "id": "char_252_bibeak",
       "prof": "WARRIOR",
       "subProf": "sword",
@@ -453,7 +464,7 @@
       "id": "token_10043_necras_skeltn",
       "prof": "TOKEN",
       "subProf": "notchar1",
-      "name_en": "The Servant of Lament",
+      "name_en": "Servant of Lamentation",
       "name": "悲叹的仆役",
       "alias": "beitandepuyi beitandipuyi btdpy 悲歎的仆役",
       "rarity": 0,
@@ -1008,6 +1019,17 @@
       "alt_name": "Fang"
     },
     {
+      "id": "char_4182_oblvns",
+      "prof": "WARRIOR",
+      "subProf": "lord",
+      "name_en": "Togawa Sakiko",
+      "name": "丰川祥子",
+      "alias": "fengchuanxiangzi fcxz 豐川祥子",
+      "rarity": 6,
+      "alt_name": "Togawa Sakiko",
+      "modules": ["", "Y"]
+    },
+    {
       "id": "char_222_bpipe",
       "prof": "PIONEER",
       "subProf": "charger",
@@ -1450,7 +1472,7 @@
       "alias": "huang h 煌",
       "rarity": 6,
       "alt_name": "Blaze",
-      "modules": ["", "X"]
+      "modules": ["", "X", "Y"]
     },
     {
       "id": "token_10040_siege2_vlion",
@@ -1984,7 +2006,7 @@
       "id": "token_10044_wulfen_mine",
       "prof": "TOKEN",
       "subProf": "notchar1",
-      "name_en": "Rocky Chomper",
+      "name_en": "Ore 'Killer'",
       "name": "矿石“杀手”",
       "alias": "kuangshishashou kuangdanshashou ksss kdss 礦石“殺手” 礦石殺手",
       "rarity": 0,
@@ -3054,6 +3076,17 @@
       "modules": ["", "X"]
     },
     {
+      "id": "char_4183_mortis",
+      "prof": "SPECIAL",
+      "subProf": "dollkeeper",
+      "name_en": "Wakaba Mutsumi",
+      "name": "若叶睦",
+      "alias": "ruoyemu ruoxiemu reyemu rexiemu rym rxm 若葉睦",
+      "rarity": 5,
+      "alt_name": "Wakaba Mutsumi",
+      "modules": ["", "Y"]
+    },
+    {
       "id": "token_10052_radian_tower2",
       "prof": "TOKEN",
       "subProf": "notchar1",
@@ -3073,6 +3106,17 @@
       "rarity": 6,
       "alt_name": "Saria",
       "modules": ["", "X", "Y"]
+    },
+    {
+      "id": "char_4184_dolris",
+      "prof": "SUPPORT",
+      "subProf": "bard",
+      "name_en": "Misumi Uika",
+      "name": "三角初华",
+      "alias": "sanjiaochuhua sanjuechuhua sjch 三角初華",
+      "rarity": 5,
+      "alt_name": "Misumi Uika",
+      "modules": ["", "X"]
     },
     {
       "id": "char_473_mberry",
@@ -3304,7 +3348,7 @@
       "id": "char_1502_crosly",
       "prof": "SPECIAL",
       "subProf": "executor",
-      "name_en": "CrownSlayer",
+      "name_en": "Crownslayer",
       "name": "弑君者",
       "alias": "shijunzhe sjz 弑君者",
       "rarity": 6,
@@ -3579,7 +3623,7 @@
       "alias": "suxin sx 塑心",
       "rarity": 6,
       "alt_name": "Virtuosa",
-      "modules": ["", "X"]
+      "modules": ["", "X", "Y"]
     },
     {
       "id": "char_366_acdrop",
@@ -4540,6 +4584,17 @@
       "alias": "youlingsha yls 幽靈鯊",
       "rarity": 5,
       "alt_name": "Specter",
+      "modules": ["", "X"]
+    },
+    {
+      "id": "char_4185_amoris",
+      "prof": "WARRIOR",
+      "subProf": "hammer",
+      "name_en": "Yūtenji Nyamu",
+      "name": "祐天寺若麦",
+      "alias": "youtiansiruomai youtiansiremai ytsrm 祐天寺若麥",
+      "rarity": 5,
+      "alt_name": "Yūtenji Nyamu",
       "modules": ["", "X"]
     },
     {
